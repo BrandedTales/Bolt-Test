@@ -45,7 +45,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _data:
-    _json: '{"declarations":{"collection":{"$content":[{"name":"Direction","value":{"$content":"","$type":"System.String"},"$version":"A"},{"name":"Type","value":{"$content":"None","$type":"BT.CrystalBright.CardEnums+ScoreConditionType"},"$version":"A"},{"name":"CardType","value":{"$content":"None","$type":"BT.CrystalBright.CardEnums+CardType"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
+    _json: '{"declarations":{"collection":{"$content":[],"$version":"A"},"$version":"A"}}'
     _objectReferences: []
 --- !u!114 &2236032603370497693
 MonoBehaviour:

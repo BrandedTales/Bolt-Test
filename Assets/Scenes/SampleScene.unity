@@ -643,6 +643,17 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 127635934}
     m_Modifications:
+    - target: {fileID: -3699012013000248860, guid: 4e74839f0116d3049990b744325fc6ab,
+        type: 3}
+      propertyPath: m_AdditionalShaderChannelsFlag
+      value: 25
+      objectReference: {fileID: 0}
+    - target: {fileID: 6797070880362219329, guid: 4e74839f0116d3049990b744325fc6ab,
+        type: 3}
+      propertyPath: _data._json
+      value: '{"declarations":{"collection":{"$content":[{"name":"Type","value":{"$content":"Magic","$type":"BT.CrystalBright.CardEnums+CardType"},"$version":"A"},{"name":"Card
+        Name","value":{"$content":"Enchantress","$type":"System.String"},"$version":"A"},{"name":"TypeImage","value":{"$content":0,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"TitleTMP","value":{"$content":1,"$type":"UnityEngine.Object"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
+      objectReference: {fileID: 0}
     - target: {fileID: 6797070880362219333, guid: 4e74839f0116d3049990b744325fc6ab,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -804,7 +815,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _data:
-    _json: '{"declarations":{"collection":{"$content":[],"$version":"A"},"$version":"A"}}'
+    _json: '{"declarations":{"collection":{"$content":[{"name":"Direction","value":{"$content":"TopLeft","$type":"BT.CrystalBright.CardEnums+ScoreConditionDirection"},"$version":"A"},{"name":"Type","value":{"$content":"None","$type":"BT.CrystalBright.CardEnums+ScoreConditionType"},"$version":"A"},{"name":"Card
+      Type","value":{"$content":"None","$type":"BT.CrystalBright.CardEnums+CardType"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
     _objectReferences: []
 --- !u!4 &2106297657
 Transform:
@@ -881,6 +893,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2236032603370497692, guid: ec2179f76c75c1449a1a4ef341a6be4b,
+        type: 3}
+      propertyPath: _data._json
+      value: '{"declarations":{"collection":{"$content":[{"name":"Direction","value":{"$content":"TopLeft","$type":"BT.CrystalBright.CardEnums+ScoreConditionDirection"},"$version":"A"},{"name":"Type","value":{"$content":"None","$type":"BT.CrystalBright.CardEnums+ScoreConditionType"},"$version":"A"},{"name":"CardType","value":{"$content":"None","$type":"BT.CrystalBright.CardEnums+CardType"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
       objectReference: {fileID: 0}
     - target: {fileID: 2236032603370497694, guid: ec2179f76c75c1449a1a4ef341a6be4b,
         type: 3}
