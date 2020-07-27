@@ -245,6 +245,7 @@ GameObject:
   - component: {fileID: 6797070880362219334}
   - component: {fileID: -3699012013000248860}
   - component: {fileID: 7153143854762040094}
+  - component: {fileID: 1250046759199752901}
   m_Layer: 5
   m_Name: Card
   m_TagString: Untagged
@@ -332,7 +333,8 @@ MonoBehaviour:
       UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null]]"},"$version":"A"},{"name":"Type
       Image","value":{"$content":0,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"TitleTMP","value":{"$content":1,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"Score
       Display","value":{"$content":2,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"Score
-      Display Text","value":{"$content":" ","$type":"System.String"},"$version":"A"},{"name":"ResourceImage","value":{"$content":3,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"Active
+      Display Text","value":{"$content":" ","$type":"System.String"},"$version":"A"},{"name":"Resource
+      Image","value":{"$content":3,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"Active
       Drag Parent","value":{"$content":4,"$type":"UnityEngine.Object"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
     _objectReferences:
     - {fileID: 6797070881579177841}
@@ -394,6 +396,22 @@ MonoBehaviour:
   m_BlockingMask:
     serializedVersion: 2
     m_Bits: 4294967295
+--- !u!114 &1250046759199752901
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6797070880362219338}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1999370065, guid: dcd2196c4e9166f499793f2007fcda35, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _data:
+    _json: '{"nest":{"source":"Macro","macro":0,"embed":null}}'
+    _objectReferences:
+    - {fileID: 11400000, guid: a7ebb1724049db043af91d5a5cd5281c, type: 2}
 --- !u!1 &6797070881579177847
 GameObject:
   m_ObjectHideFlags: 0

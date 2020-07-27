@@ -1,6 +1,6 @@
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
---- !u!1001 &3019398429951310643
+--- !u!1001 &7930222214449997337
 PrefabInstance:
   m_ObjectHideFlags: 0
   serializedVersion: 2
@@ -9,60 +9,18 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 6797070880362219329, guid: 4e74839f0116d3049990b744325fc6ab,
         type: 3}
-      propertyPath: _data._objectReferences.Array.size
-      value: 7
-      objectReference: {fileID: 0}
-    - target: {fileID: 6797070880362219329, guid: 4e74839f0116d3049990b744325fc6ab,
-        type: 3}
       propertyPath: _data._json
       value: '{"declarations":{"collection":{"$content":[{"name":"Type","value":{"$content":"Magic","$type":"BT.CrystalBright.CardType"},"$version":"A"},{"name":"Reward
         Type","value":{"$content":"OneBlue","$type":"BT.CrystalBright.CardRewardType"},"$version":"A"},{"name":"Card
-        Name","value":{"$content":"Sky Oracle","$type":"System.String"},"$version":"A"},{"name":"Score
-        Conditions","value":{"$content":[0,1,2],"$type":"System.Collections.Generic.List`1[[UnityEngine.ScriptableObject,
+        Name","value":{"$content":"Maiden Of Life","$type":"System.String"},"$version":"A"},{"name":"Score
+        Conditions","value":{"$content":[],"$type":"System.Collections.Generic.List`1[[UnityEngine.ScriptableObject,
         UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null]]"},"$version":"A"},{"name":"Type
-        Image","value":{"$content":3,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"TitleTMP","value":{"$content":4,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"Score
-        Display","value":{"$content":5,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"Score
+        Image","value":{"$content":0,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"TitleTMP","value":{"$content":1,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"Score
+        Display","value":{"$content":2,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"Score
         Display Text","value":{"$content":" ","$type":"System.String"},"$version":"A"},{"name":"Resource
-        Image","value":{"$content":6,"$type":"UnityEngine.Object"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
+        Image","value":{"$content":3,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"Active
+        Drag Parent","value":{"$content":4,"$type":"UnityEngine.Object"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
       objectReference: {fileID: 0}
-    - target: {fileID: 6797070880362219329, guid: 4e74839f0116d3049990b744325fc6ab,
-        type: 3}
-      propertyPath: _data._objectReferences.Array.data[0]
-      value: 
-      objectReference: {fileID: 11400000, guid: 1f8d52540650f0e49a21f452f0b3b884,
-        type: 2}
-    - target: {fileID: 6797070880362219329, guid: 4e74839f0116d3049990b744325fc6ab,
-        type: 3}
-      propertyPath: _data._objectReferences.Array.data[1]
-      value: 
-      objectReference: {fileID: 11400000, guid: 2efb2122bbed7eb40a6fe0e254c1fac5,
-        type: 2}
-    - target: {fileID: 6797070880362219329, guid: 4e74839f0116d3049990b744325fc6ab,
-        type: 3}
-      propertyPath: _data._objectReferences.Array.data[2]
-      value: 
-      objectReference: {fileID: 11400000, guid: 36988ccff93f44247894bdd604bdeb64,
-        type: 2}
-    - target: {fileID: 6797070880362219329, guid: 4e74839f0116d3049990b744325fc6ab,
-        type: 3}
-      propertyPath: _data._objectReferences.Array.data[3]
-      value: 
-      objectReference: {fileID: 8625243396626394178}
-    - target: {fileID: 6797070880362219329, guid: 4e74839f0116d3049990b744325fc6ab,
-        type: 3}
-      propertyPath: _data._objectReferences.Array.data[4]
-      value: 
-      objectReference: {fileID: 4396357004699156627}
-    - target: {fileID: 6797070880362219329, guid: 4e74839f0116d3049990b744325fc6ab,
-        type: 3}
-      propertyPath: _data._objectReferences.Array.data[5]
-      value: 
-      objectReference: {fileID: 8473593035914625899}
-    - target: {fileID: 6797070880362219329, guid: 4e74839f0116d3049990b744325fc6ab,
-        type: 3}
-      propertyPath: _data._objectReferences.Array.data[6]
-      value: 
-      objectReference: {fileID: 7387162338591907123}
     - target: {fileID: 6797070880362219333, guid: 4e74839f0116d3049990b744325fc6ab,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -171,55 +129,7 @@ PrefabInstance:
     - target: {fileID: 6797070880362219338, guid: 4e74839f0116d3049990b744325fc6ab,
         type: 3}
       propertyPath: m_Name
-      value: Card- Sky Oracle
+      value: Card - Maiden of Life
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 4e74839f0116d3049990b744325fc6ab, type: 3}
---- !u!114 &8625243396626394178 stripped
-MonoBehaviour:
-  m_CorrespondingSourceObject: {fileID: 6797070881579177841, guid: 4e74839f0116d3049990b744325fc6ab,
-    type: 3}
-  m_PrefabInstance: {fileID: 3019398429951310643}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
---- !u!114 &4396357004699156627 stripped
-MonoBehaviour:
-  m_CorrespondingSourceObject: {fileID: 1505875426331491232, guid: 4e74839f0116d3049990b744325fc6ab,
-    type: 3}
-  m_PrefabInstance: {fileID: 3019398429951310643}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: f4688fdb7df04437aeb418b961361dc5, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
---- !u!114 &8473593035914625899 stripped
-MonoBehaviour:
-  m_CorrespondingSourceObject: {fileID: 6665100019126040664, guid: 4e74839f0116d3049990b744325fc6ab,
-    type: 3}
-  m_PrefabInstance: {fileID: 3019398429951310643}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: f4688fdb7df04437aeb418b961361dc5, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
---- !u!114 &7387162338591907123 stripped
-MonoBehaviour:
-  m_CorrespondingSourceObject: {fileID: 5720547746880202240, guid: 4e74839f0116d3049990b744325fc6ab,
-    type: 3}
-  m_PrefabInstance: {fileID: 3019398429951310643}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
