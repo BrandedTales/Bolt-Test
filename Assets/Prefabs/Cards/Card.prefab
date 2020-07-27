@@ -242,13 +242,12 @@ GameObject:
   - component: {fileID: 6797070880362219335}
   - component: {fileID: 6797070880362219332}
   - component: {fileID: 6797070880362219329}
-  - component: {fileID: 6797070880362219334}
+  - component: {fileID: 1250046759199752901}
   - component: {fileID: -3699012013000248860}
   - component: {fileID: 7153143854762040094}
-  - component: {fileID: 1250046759199752901}
   m_Layer: 5
   m_Name: Card
-  m_TagString: Untagged
+  m_TagString: Card
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -335,14 +334,15 @@ MonoBehaviour:
       Display","value":{"$content":2,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"Score
       Display Text","value":{"$content":" ","$type":"System.String"},"$version":"A"},{"name":"Resource
       Image","value":{"$content":3,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"Active
-      Drag Parent","value":{"$content":4,"$type":"UnityEngine.Object"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
+      Drag Parent","value":{"$content":4,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"Parent
+      Slot","value":null,"$version":"A"},{"name":"Parent Board","value":null,"$version":"A"}],"$version":"A"},"$version":"A"}}'
     _objectReferences:
     - {fileID: 6797070881579177841}
     - {fileID: 1505875426331491232}
     - {fileID: 6665100019126040664}
     - {fileID: 5720547746880202240}
     - {fileID: 0}
---- !u!114 &6797070880362219334
+--- !u!114 &1250046759199752901
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -351,13 +351,13 @@ MonoBehaviour:
   m_GameObject: {fileID: 6797070880362219338}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: -57143145, guid: a040fb66244a7f54289914d98ea4ef7d, type: 3}
+  m_Script: {fileID: -1999370065, guid: dcd2196c4e9166f499793f2007fcda35, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   _data:
     _json: '{"nest":{"source":"Macro","macro":0,"embed":null}}'
     _objectReferences:
-    - {fileID: 11400000, guid: 459efef51887d9c4e9254b2051f87f33, type: 2}
+    - {fileID: 11400000, guid: a7ebb1724049db043af91d5a5cd5281c, type: 2}
 --- !u!223 &-3699012013000248860
 Canvas:
   m_ObjectHideFlags: 0
@@ -396,22 +396,6 @@ MonoBehaviour:
   m_BlockingMask:
     serializedVersion: 2
     m_Bits: 4294967295
---- !u!114 &1250046759199752901
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 6797070880362219338}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: -1999370065, guid: dcd2196c4e9166f499793f2007fcda35, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  _data:
-    _json: '{"nest":{"source":"Macro","macro":0,"embed":null}}'
-    _objectReferences:
-    - {fileID: 11400000, guid: a7ebb1724049db043af91d5a5cd5281c, type: 2}
 --- !u!1 &6797070881579177847
 GameObject:
   m_ObjectHideFlags: 0

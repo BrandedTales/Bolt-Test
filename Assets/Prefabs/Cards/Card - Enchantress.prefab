@@ -7,20 +7,6 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
-    - target: {fileID: 6797070880362219329, guid: 4e74839f0116d3049990b744325fc6ab,
-        type: 3}
-      propertyPath: _data._json
-      value: '{"declarations":{"collection":{"$content":[{"name":"Type","value":{"$content":"Magic","$type":"BT.CrystalBright.CardType"},"$version":"A"},{"name":"Reward
-        Type","value":{"$content":"OneBlue","$type":"BT.CrystalBright.CardRewardType"},"$version":"A"},{"name":"Card
-        Name","value":{"$content":"Enchantress","$type":"System.String"},"$version":"A"},{"name":"Score
-        Conditions","value":{"$content":[],"$type":"System.Collections.Generic.List`1[[UnityEngine.ScriptableObject,
-        UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null]]"},"$version":"A"},{"name":"Type
-        Image","value":{"$content":0,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"TitleTMP","value":{"$content":1,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"Score
-        Display","value":{"$content":2,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"Score
-        Display Text","value":{"$content":" ","$type":"System.String"},"$version":"A"},{"name":"Resource
-        Image","value":{"$content":3,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"Active
-        Drag Parent","value":{"$content":4,"$type":"UnityEngine.Object"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
-      objectReference: {fileID: 0}
     - target: {fileID: 6797070880362219333, guid: 4e74839f0116d3049990b744325fc6ab,
         type: 3}
       propertyPath: m_LocalPosition.x
