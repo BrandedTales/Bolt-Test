@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1893448595, guid: a040fb66244a7f54289914d98ea4ef7d, type: 3}
+  m_Name: Game Setup - Add Boards
+  m_EditorClassIdentifier: 
+  _data:
+    _json: '{"graph":{"variables":{"collection":{"$content":[],"$version":"A"},"$version":"A"},"controlInputDefinitions":[{"key":"Enter","label":null,"summary":null,"hideLabel":false}],"controlOutputDefinitions":[{"key":"Exit","label":null,"summary":null,"hideLabel":false}],"valueInputDefinitions":[],"valueOutputDefinitions":[],"title":null,"summary":null,"pan":{"x":0.0,"y":0.0},"zoom":1.0,"elements":[{"defaultValues":{},"position":{"x":-446.0,"y":-46.0},"guid":"e7139a40-484b-463d-b9e1-f53c383795fe","$version":"A","$type":"Bolt.GraphInput","$id":"11"},{"defaultValues":{},"position":{"x":338.0,"y":-35.0},"guid":"128d824a-f0cc-47d1-a212-f2fe33e1e630","$version":"A","$type":"Bolt.GraphOutput"},{"dictionary":false,"defaultValues":{},"position":{"x":-246.0,"y":-53.0},"guid":"1b85b257-f664-44b6-b29d-5537c092d45a","$version":"A","$type":"Bolt.ForEach","$id":"15"},{"specifyFallback":false,"kind":"Scene","defaultValues":{"name":{"$content":"All
+      Available Cards","$type":"System.String"}},"position":{"x":-529.0,"y":123.0},"guid":"d4107e62-f14c-40b6-ad8d-7ee3b0d69e82","$version":"A","$type":"Bolt.GetVariable","$id":"17"},{"defaultValues":{},"position":{"x":86.0,"y":-27.0},"guid":"998097c0-c110-4630-aac2-198dcef08b62","$version":"A","$type":"Bolt.AddListItem","$id":"19"},{"specifyFallback":false,"kind":"Object","defaultValues":{"name":{"$content":"In
+      Game Deck","$type":"System.String"},"object":null},"position":{"x":-296.0,"y":154.0},"guid":"9f4081a6-5115-4c4e-9485-1a74c2f3881a","$version":"A","$type":"Bolt.GetVariable","$id":"21"},{"sourceUnit":{"$ref":"11"},"sourceKey":"Enter","destinationUnit":{"$ref":"15"},"destinationKey":"enter","guid":"8e7ec8b3-8a52-43c5-81b2-7e6fe9bfbfe7","$type":"Bolt.ControlConnection"},{"sourceUnit":{"$ref":"15"},"sourceKey":"body","destinationUnit":{"$ref":"19"},"destinationKey":"enter","guid":"e2ef051c-4a27-4de1-a59b-ad5531c5846d","$type":"Bolt.ControlConnection"},{"sourceUnit":{"$ref":"17"},"sourceKey":"value","destinationUnit":{"$ref":"15"},"destinationKey":"collection","guid":"a10c0c98-7411-466d-ae5a-4850ab89094c","$type":"Bolt.ValueConnection"},{"sourceUnit":{"$ref":"21"},"sourceKey":"value","destinationUnit":{"$ref":"19"},"destinationKey":"listInput","guid":"2294f062-e19b-48c3-8629-fc65d261fb78","$type":"Bolt.ValueConnection"}],"$version":"A"}}'
+    _objectReferences: []
