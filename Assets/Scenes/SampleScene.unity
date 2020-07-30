@@ -579,7 +579,8 @@ MonoBehaviour:
     _json: '{"declarations":{"collection":{"$content":[{"name":"All Available Cards","value":{"$content":[0,1,2,3,4,5,6,7,8,9,10,11],"$type":"System.Collections.Generic.List`1[[UnityEngine.GameObject,
       UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null]]"},"$version":"A"},{"name":"Play
       Canvas","value":{"$content":12,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"Player
-      Area","value":{"$content":13,"$type":"UnityEngine.Object"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
+      Area","value":{"$content":13,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"Active
+      Game Card","value":null,"$version":"A"}],"$version":"A"},"$version":"A"}}'
     _objectReferences:
     - {fileID: 3184930900435840368, guid: b308bccd294843b4eb4dd2dbb30cd33c, type: 3}
     - {fileID: 3184930900435840368, guid: b308bccd294843b4eb4dd2dbb30cd33c, type: 3}
@@ -794,14 +795,6 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: GameController
-      objectReference: {fileID: 0}
-    - target: {fileID: 8358414648634970310, guid: a80ea41b518e6514cbe52d87b5628e2b,
-        type: 3}
-      propertyPath: _data._json
-      value: '{"declarations":{"collection":{"$content":[{"name":"In Game Deck","value":{"$content":[],"$type":"System.Collections.Generic.List`1[[UnityEngine.GameObject,
-        UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null]]"},"$version":"A"},{"name":"Player
-        Count","value":{"$content":1,"$type":"System.Int32"},"$version":"A"},{"name":"Active
-        Game Board","value":null,"$version":"A"}],"$version":"A"},"$version":"A"}}'
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: a80ea41b518e6514cbe52d87b5628e2b, type: 3}

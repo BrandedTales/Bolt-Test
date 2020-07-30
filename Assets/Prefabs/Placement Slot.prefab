@@ -11,6 +11,7 @@ GameObject:
   - component: {fileID: 910086076457486021}
   - component: {fileID: 910086075815973568}
   - component: {fileID: 910086075815973582}
+  - component: {fileID: 6687064790194076307}
   - component: {fileID: 910086075815973583}
   m_Layer: 5
   m_Name: Placement Slot
@@ -52,7 +53,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _data:
-    _json: '{"declarations":{"collection":{"$content":[],"$version":"A"},"$version":"A"}}'
+    _json: '{"declarations":{"collection":{"$content":[{"name":"Game Board","value":null,"$version":"A"}],"$version":"A"},"$version":"A"}}'
     _objectReferences: []
 --- !u!114 &910086075815973582
 MonoBehaviour:
@@ -70,6 +71,22 @@ MonoBehaviour:
     _json: '{"nest":{"source":"Macro","macro":0,"embed":null}}'
     _objectReferences:
     - {fileID: 11400000, guid: 1a00e4de6c0a4fd4da36b4b2e310dc93, type: 2}
+--- !u!114 &6687064790194076307
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 910086075815973569}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -57143145, guid: a040fb66244a7f54289914d98ea4ef7d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _data:
+    _json: '{"nest":{"source":"Macro","macro":0,"embed":null}}'
+    _objectReferences:
+    - {fileID: 11400000, guid: 4946a102989580244b55d635b44ef7c1, type: 2}
 --- !u!225 &910086075815973583
 CanvasGroup:
   m_ObjectHideFlags: 0
