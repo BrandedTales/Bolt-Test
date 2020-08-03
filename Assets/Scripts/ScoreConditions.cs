@@ -9,6 +9,7 @@ namespace BT.CrystalBright
     public enum ScoreConditionDirection { TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight }
     public enum ScoreConditionDistance { Self, One, Two, Both }
     public enum CardRewardType { OneRed, OneGreen, OneBlue }
+    public enum BoardType { None, Player, Shared }
 
   
     [CreateAssetMenu(fileName = "New Score Condition", menuName = "CrystalBright/Score Conditions", order = 1)]
