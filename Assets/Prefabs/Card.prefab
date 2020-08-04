@@ -63,8 +63,11 @@ MonoBehaviour:
       Move","value":{"$content":true,"$type":"System.Boolean"},"$version":"A"},{"name":"Droppable","value":{"$content":false,"$type":"System.Boolean"},"$version":"A"},{"name":"Game
       Board","value":null,"$version":"A"},{"name":"Dropped On","value":null,"$version":"A"},{"name":"Assigned
       Slot","value":null,"$version":"A"},{"name":"Turn Start Location","value":null,"$version":"A"},{"name":"Turn
-      Start Board","value":null,"$version":"A"}],"$version":"A"},"$version":"A"}}'
-    _objectReferences: []
+      Start Board","value":null,"$version":"A"},{"name":"Card SO","value":{"$content":0,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"Score
+      Conditions","value":{"$content":[null,null,null],"$type":"System.Collections.Generic.List`1[[BT.CrystalBright.ScoreConditions,
+      Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null]]"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
+    _objectReferences:
+    - {fileID: 11400000, guid: b852d411df7e1404da54945e5adbfc77, type: 2}
 --- !u!114 &3184930900435840370
 MonoBehaviour:
   m_ObjectHideFlags: 0
