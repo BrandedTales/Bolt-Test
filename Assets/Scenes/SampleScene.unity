@@ -736,7 +736,7 @@ MonoBehaviour:
       UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null]]"},"$version":"A"},{"name":"Play
       Canvas","value":{"$content":12,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"Player
       Area","value":{"$content":13,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"Active
-      Game Card","value":null,"$version":"A"}],"$version":"A"},"$version":"A"}}'
+      Game Card","value":null,"$version":"A"},{"name":"Swapped Card","value":null,"$version":"A"}],"$version":"A"},"$version":"A"}}'
     _objectReferences:
     - {fileID: 3184930900435840368, guid: b308bccd294843b4eb4dd2dbb30cd33c, type: 3}
     - {fileID: 3184930900435840368, guid: b308bccd294843b4eb4dd2dbb30cd33c, type: 3}
