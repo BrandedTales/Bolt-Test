@@ -974,5 +974,13 @@ PrefabInstance:
       propertyPath: m_Name
       value: GameController
       objectReference: {fileID: 0}
+    - target: {fileID: 8358414648634970310, guid: a80ea41b518e6514cbe52d87b5628e2b,
+        type: 3}
+      propertyPath: _data._json
+      value: '{"declarations":{"collection":{"$content":[{"name":"In Game Deck","value":{"$content":[],"$type":"System.Collections.Generic.List`1[[BT.CrystalBright.Card,
+        Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null]]"},"$version":"A"},{"name":"Player
+        Count","value":{"$content":1,"$type":"System.Int32"},"$version":"A"},{"name":"Active
+        Game Board","value":null,"$version":"A"}],"$version":"A"},"$version":"A"}}'
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: a80ea41b518e6514cbe52d87b5628e2b, type: 3}
