@@ -754,16 +754,13 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _data:
-    _json: '{"declarations":{"collection":{"$content":[{"name":"All Available Cards","value":{"$content":[],"$type":"System.Collections.Generic.List`1[[UnityEngine.GameObject,
-      UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null]]"},"$version":"A"},{"name":"Play
-      Canvas","value":{"$content":0,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"Player
-      Area","value":{"$content":1,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"Active
-      Game Card","value":null,"$version":"A"},{"name":"Swapped Card","value":null,"$version":"A"},{"name":"All
-      Card Templates","value":{"$content":[2,3,4,5,6,7,8,9,10,11,12],"$type":"System.Collections.Generic.List`1[[BT.CrystalBright.Card,
+    _json: '{"declarations":{"collection":{"$content":[{"name":"All Card Templates","value":{"$content":[0,1,2,3,4,5,6,7,8,9,10],"$type":"System.Collections.Generic.List`1[[BT.CrystalBright.Card,
+      Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null]]"},"$version":"A"},{"name":"Play
+      Canvas","value":{"$content":11,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"Player
+      Area","value":{"$content":12,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"Active
+      Game Card","value":null,"$version":"A"},{"name":"Swapped Card","value":{"$content":[],"$type":"System.Collections.Generic.List`1[[BT.CrystalBright.Card,
       Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null]]"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
     _objectReferences:
-    - {fileID: 127635930}
-    - {fileID: 1149532735}
     - {fileID: 11400000, guid: fea169e67af184a46b16eb63ee9739d0, type: 2}
     - {fileID: 11400000, guid: 2ca93b895cc3f874487ec5cba30ece68, type: 2}
     - {fileID: 11400000, guid: 29fdf3cf8984e1e41a70c39dfcfd6265, type: 2}
@@ -775,6 +772,8 @@ MonoBehaviour:
     - {fileID: 11400000, guid: 166a4620209f19243a1b7fb7f79bce9f, type: 2}
     - {fileID: 11400000, guid: 7b5d399e16b433e438862c2a7ba6b278, type: 2}
     - {fileID: 11400000, guid: 2bf2a5986a5afcf47a7f44f13f6a8504, type: 2}
+    - {fileID: 127635930}
+    - {fileID: 1149532735}
 --- !u!4 &2106297657
 Transform:
   m_ObjectHideFlags: 0

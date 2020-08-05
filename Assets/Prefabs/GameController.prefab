@@ -45,8 +45,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _data:
-    _json: '{"declarations":{"collection":{"$content":[{"name":"In Game Deck","value":{"$content":[],"$type":"System.Collections.Generic.List`1[[UnityEngine.GameObject,
-      UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null]]"},"$version":"A"},{"name":"Player
+    _json: '{"declarations":{"collection":{"$content":[{"name":"In Game Deck","value":{"$content":[],"$type":"System.Collections.Generic.List`1[[BT.CrystalBright.Card,
+      Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null]]"},"$version":"A"},{"name":"Player
       Count","value":{"$content":1,"$type":"System.Int32"},"$version":"A"},{"name":"Active
       Game Board","value":null,"$version":"A"}],"$version":"A"},"$version":"A"}}'
     _objectReferences: []
