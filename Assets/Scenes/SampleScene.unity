@@ -973,6 +973,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: GameController
       objectReference: {fileID: 0}
+    - target: {fileID: 8358414648634970308, guid: a80ea41b518e6514cbe52d87b5628e2b,
+        type: 3}
+      propertyPath: m_TagString
+      value: GameController
+      objectReference: {fileID: 0}
     - target: {fileID: 8358414648634970310, guid: a80ea41b518e6514cbe52d87b5628e2b,
         type: 3}
       propertyPath: _data._json

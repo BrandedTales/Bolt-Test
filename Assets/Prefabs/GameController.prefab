@@ -13,7 +13,7 @@ GameObject:
   - component: {fileID: 8358414648634970311}
   m_Layer: 0
   m_Name: GameController
-  m_TagString: Untagged
+  m_TagString: GameController
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -48,7 +48,7 @@ MonoBehaviour:
     _json: '{"declarations":{"collection":{"$content":[{"name":"In Game Deck","value":{"$content":[],"$type":"System.Collections.Generic.List`1[[BT.CrystalBright.Card,
       Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null]]"},"$version":"A"},{"name":"Player
       Count","value":{"$content":1,"$type":"System.Int32"},"$version":"A"},{"name":"Active
-      Game Board","value":null,"$version":"A"}],"$version":"A"},"$version":"A"}}'
+      Game Board","value":null,"$version":"A"},{"name":"Active State","value":{"$content":"None","$type":"System.String"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
     _objectReferences: []
 --- !u!114 &8358414648634970311
 MonoBehaviour:
