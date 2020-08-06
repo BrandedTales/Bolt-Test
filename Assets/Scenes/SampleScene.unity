@@ -480,6 +480,26 @@ PrefabInstance:
       propertyPath: m_AnchoredPosition.y
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 1979654758856757380, guid: a625c7c76c62bab4090cbe321cd559fd,
+        type: 3}
+      propertyPath: m_AnchorMin.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1979654758856757380, guid: a625c7c76c62bab4090cbe321cd559fd,
+        type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1979654758856757380, guid: a625c7c76c62bab4090cbe321cd559fd,
+        type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1979654758856757380, guid: a625c7c76c62bab4090cbe321cd559fd,
+        type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 6404557030635186370, guid: a625c7c76c62bab4090cbe321cd559fd,
         type: 3}
       propertyPath: m_AnchorMin.y
@@ -758,7 +778,8 @@ MonoBehaviour:
       Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null]]"},"$version":"A"},{"name":"Play
       Canvas","value":{"$content":11,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"Player
       Area","value":{"$content":12,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"Active
-      Game Card","value":null,"$version":"A"},{"name":"Swapped Card","value":null,"$version":"A"}],"$version":"A"},"$version":"A"}}'
+      Game Card","value":null,"$version":"A"},{"name":"Swapped Card","value":null,"$version":"A"},{"name":"Card
+      to Score","value":null,"$version":"A"}],"$version":"A"},"$version":"A"}}'
     _objectReferences:
     - {fileID: 11400000, guid: fea169e67af184a46b16eb63ee9739d0, type: 2}
     - {fileID: 11400000, guid: 2ca93b895cc3f874487ec5cba30ece68, type: 2}
