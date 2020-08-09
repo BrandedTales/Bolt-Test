@@ -779,7 +779,7 @@ MonoBehaviour:
       Canvas","value":{"$content":11,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"Player
       Area","value":{"$content":12,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"Active
       Game Card","value":null,"$version":"A"},{"name":"Swapped Card","value":null,"$version":"A"},{"name":"Card
-      to Score","value":null,"$version":"A"}],"$version":"A"},"$version":"A"}}'
+      to Score","value":null,"$version":"A"},{"name":"Card Index","value":{"$content":0,"$type":"System.Int32"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
     _objectReferences:
     - {fileID: 11400000, guid: fea169e67af184a46b16eb63ee9739d0, type: 2}
     - {fileID: 11400000, guid: 2ca93b895cc3f874487ec5cba30ece68, type: 2}
