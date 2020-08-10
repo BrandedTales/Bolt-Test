@@ -175,12 +175,11 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _data:
     _json: '{"declarations":{"collection":{"$content":[{"name":"Location","value":{"x":0.0,"y":0.0,"z":0.0,"$type":"UnityEngine.Vector3"},"$version":"A"},{"name":"Snap
-      Back","value":{"$content":true,"$type":"System.Boolean"},"$version":"A"},{"name":"Swappable","value":{"$content":true,"$type":"System.Boolean"},"$version":"A"},{"name":"Draggable","value":{"$content":true,"$type":"System.Boolean"},"$version":"A"},{"name":"One
-      Move","value":{"$content":true,"$type":"System.Boolean"},"$version":"A"},{"name":"Droppable","value":{"$content":false,"$type":"System.Boolean"},"$version":"A"},{"name":"Game
+      Back","value":{"$content":true,"$type":"System.Boolean"},"$version":"A"},{"name":"Swappable","value":{"$content":false,"$type":"System.Boolean"},"$version":"A"},{"name":"Draggable","value":{"$content":false,"$type":"System.Boolean"},"$version":"A"},{"name":"One
+      Move","value":{"$content":false,"$type":"System.Boolean"},"$version":"A"},{"name":"Droppable","value":{"$content":false,"$type":"System.Boolean"},"$version":"A"},{"name":"Game
       Board","value":null,"$version":"A"},{"name":"Dropped On","value":null,"$version":"A"},{"name":"Assigned
       Slot","value":null,"$version":"A"},{"name":"Turn Start Location","value":null,"$version":"A"},{"name":"Turn
-      Start Board","value":null,"$version":"A"},{"name":"Score Conditions","value":{"$content":[null,null,null],"$type":"System.Collections.Generic.List`1[[BT.CrystalBright.ScoreConditions,
-      Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null]]"},"$version":"A"},{"name":"Background","value":{"$content":0,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"Title","value":{"$content":1,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"Reward","value":{"$content":2,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"Type","value":{"$content":3,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"Selection
+      Start Board","value":null,"$version":"A"},{"name":"Rally Phase","value":{"$content":false,"$type":"System.Boolean"},"$version":"A"},{"name":"Background","value":{"$content":0,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"Title","value":{"$content":1,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"Reward","value":{"$content":2,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"Type","value":{"$content":3,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"Selection
       Halo","value":{"$content":4,"$type":"UnityEngine.Object"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
     _objectReferences:
     - {fileID: 3184930901442811689}
