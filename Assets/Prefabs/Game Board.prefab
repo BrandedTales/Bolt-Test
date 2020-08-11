@@ -715,6 +715,16 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 5075153027212683468}
     m_Modifications:
+    - target: {fileID: 910086075815973568, guid: d4082fa5d2242af49902ae9d3cd90ac7,
+        type: 3}
+      propertyPath: _data._json
+      value: '{"declarations":{"collection":{"$content":[{"name":"Game Board","value":null,"$version":"A"},{"name":"Droppable","value":{"$content":false,"$type":"System.Boolean"},"$version":"A"},{"name":"Card
+        In Slot","value":null,"$version":"A"},{"name":"Active Halo","value":{"$content":0,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"Top
+        Left","value":null,"$version":"A"},{"name":"Top","value":null,"$version":"A"},{"name":"Top
+        Right","value":null,"$version":"A"},{"name":"Left","value":null,"$version":"A"},{"name":"Right","value":null,"$version":"A"},{"name":"Bottom
+        Left","value":null,"$version":"A"},{"name":"Bottom","value":null,"$version":"A"},{"name":"Bottom
+        Right","value":null,"$version":"A"}],"$version":"A"},"$version":"A"}}'
+      objectReference: {fileID: 0}
     - target: {fileID: 910086075815973569, guid: d4082fa5d2242af49902ae9d3cd90ac7,
         type: 3}
       propertyPath: m_Name
