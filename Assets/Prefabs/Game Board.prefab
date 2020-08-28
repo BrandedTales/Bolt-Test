@@ -90,6 +90,36 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 5075153027212683468}
     m_Modifications:
+    - target: {fileID: 910086075815973568, guid: d4082fa5d2242af49902ae9d3cd90ac7,
+        type: 3}
+      propertyPath: _data._objectReferences.Array.size
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 910086075815973568, guid: d4082fa5d2242af49902ae9d3cd90ac7,
+        type: 3}
+      propertyPath: _data._json
+      value: '{"declarations":{"collection":{"$content":[{"name":"Game Board","value":null,"$version":"A"},{"name":"Droppable","value":{"$content":false,"$type":"System.Boolean"},"$version":"A"},{"name":"Card
+        In Slot","value":null,"$version":"A"},{"name":"Active Halo","value":{"$content":0,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"Top
+        Left","value":null,"$version":"A"},{"name":"Top","value":null,"$version":"A"},{"name":"Top
+        Right","value":null,"$version":"A"},{"name":"Left","value":{"$content":1,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"Right","value":null,"$version":"A"},{"name":"Bottom
+        Left","value":{"$content":2,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"Bottom","value":{"$content":3,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"Bottom
+        Right","value":null,"$version":"A"}],"$version":"A"},"$version":"A"}}'
+      objectReference: {fileID: 0}
+    - target: {fileID: 910086075815973568, guid: d4082fa5d2242af49902ae9d3cd90ac7,
+        type: 3}
+      propertyPath: _data._objectReferences.Array.data[1]
+      value: 
+      objectReference: {fileID: 2963569790846850122}
+    - target: {fileID: 910086075815973568, guid: d4082fa5d2242af49902ae9d3cd90ac7,
+        type: 3}
+      propertyPath: _data._objectReferences.Array.data[2]
+      value: 
+      objectReference: {fileID: 7354584169815337253}
+    - target: {fileID: 910086075815973568, guid: d4082fa5d2242af49902ae9d3cd90ac7,
+        type: 3}
+      propertyPath: _data._objectReferences.Array.data[3]
+      value: 
+      objectReference: {fileID: 5736683666950881904}
     - target: {fileID: 910086075815973569, guid: d4082fa5d2242af49902ae9d3cd90ac7,
         type: 3}
       propertyPath: m_Name
@@ -202,6 +232,12 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: d4082fa5d2242af49902ae9d3cd90ac7, type: 3}
+--- !u!1 &1055799586535026052 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 910086075815973569, guid: d4082fa5d2242af49902ae9d3cd90ac7,
+    type: 3}
+  m_PrefabInstance: {fileID: 146281602285502277}
+  m_PrefabAsset: {fileID: 0}
 --- !u!224 &1055799587033446784 stripped
 RectTransform:
   m_CorrespondingSourceObject: {fileID: 910086076457486021, guid: d4082fa5d2242af49902ae9d3cd90ac7,
@@ -215,6 +251,46 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 5075153027212683468}
     m_Modifications:
+    - target: {fileID: 910086075815973568, guid: d4082fa5d2242af49902ae9d3cd90ac7,
+        type: 3}
+      propertyPath: _data._objectReferences.Array.size
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 910086075815973568, guid: d4082fa5d2242af49902ae9d3cd90ac7,
+        type: 3}
+      propertyPath: _data._json
+      value: '{"declarations":{"collection":{"$content":[{"name":"Game Board","value":null,"$version":"A"},{"name":"Droppable","value":{"$content":false,"$type":"System.Boolean"},"$version":"A"},{"name":"Card
+        In Slot","value":null,"$version":"A"},{"name":"Active Halo","value":{"$content":0,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"Top
+        Left","value":null,"$version":"A"},{"name":"Top","value":null,"$version":"A"},{"name":"Top
+        Right","value":null,"$version":"A"},{"name":"Left","value":{"$content":1,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"Right","value":{"$content":2,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"Bottom
+        Left","value":{"$content":3,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"Bottom","value":{"$content":4,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"Bottom
+        Right","value":{"$content":5,"$type":"UnityEngine.Object"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
+      objectReference: {fileID: 0}
+    - target: {fileID: 910086075815973568, guid: d4082fa5d2242af49902ae9d3cd90ac7,
+        type: 3}
+      propertyPath: _data._objectReferences.Array.data[1]
+      value: 
+      objectReference: {fileID: 5921549050618837424}
+    - target: {fileID: 910086075815973568, guid: d4082fa5d2242af49902ae9d3cd90ac7,
+        type: 3}
+      propertyPath: _data._objectReferences.Array.data[2]
+      value: 
+      objectReference: {fileID: 1055799586535026052}
+    - target: {fileID: 910086075815973568, guid: d4082fa5d2242af49902ae9d3cd90ac7,
+        type: 3}
+      propertyPath: _data._objectReferences.Array.data[3]
+      value: 
+      objectReference: {fileID: 4316640341019142671}
+    - target: {fileID: 910086075815973568, guid: d4082fa5d2242af49902ae9d3cd90ac7,
+        type: 3}
+      propertyPath: _data._objectReferences.Array.data[4]
+      value: 
+      objectReference: {fileID: 7354584169815337253}
+    - target: {fileID: 910086075815973568, guid: d4082fa5d2242af49902ae9d3cd90ac7,
+        type: 3}
+      propertyPath: _data._objectReferences.Array.data[5]
+      value: 
+      objectReference: {fileID: 5736683666950881904}
     - target: {fileID: 910086075815973569, guid: d4082fa5d2242af49902ae9d3cd90ac7,
         type: 3}
       propertyPath: m_Name
@@ -327,6 +403,12 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: d4082fa5d2242af49902ae9d3cd90ac7, type: 3}
+--- !u!1 &2963569790846850122 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 910086075815973569, guid: d4082fa5d2242af49902ae9d3cd90ac7,
+    type: 3}
+  m_PrefabInstance: {fileID: 2702706728604731019}
+  m_PrefabAsset: {fileID: 0}
 --- !u!224 &2963569790348427342 stripped
 RectTransform:
   m_CorrespondingSourceObject: {fileID: 910086076457486021, guid: d4082fa5d2242af49902ae9d3cd90ac7,
@@ -340,6 +422,36 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 5075153027212683468}
     m_Modifications:
+    - target: {fileID: 910086075815973568, guid: d4082fa5d2242af49902ae9d3cd90ac7,
+        type: 3}
+      propertyPath: _data._objectReferences.Array.size
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 910086075815973568, guid: d4082fa5d2242af49902ae9d3cd90ac7,
+        type: 3}
+      propertyPath: _data._json
+      value: '{"declarations":{"collection":{"$content":[{"name":"Game Board","value":null,"$version":"A"},{"name":"Droppable","value":{"$content":false,"$type":"System.Boolean"},"$version":"A"},{"name":"Card
+        In Slot","value":null,"$version":"A"},{"name":"Active Halo","value":{"$content":0,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"Top
+        Left","value":null,"$version":"A"},{"name":"Top","value":{"$content":1,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"Top
+        Right","value":{"$content":2,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"Left","value":null,"$version":"A"},{"name":"Right","value":{"$content":3,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"Bottom
+        Left","value":null,"$version":"A"},{"name":"Bottom","value":null,"$version":"A"},{"name":"Bottom
+        Right","value":null,"$version":"A"}],"$version":"A"},"$version":"A"}}'
+      objectReference: {fileID: 0}
+    - target: {fileID: 910086075815973568, guid: d4082fa5d2242af49902ae9d3cd90ac7,
+        type: 3}
+      propertyPath: _data._objectReferences.Array.data[1]
+      value: 
+      objectReference: {fileID: 4316640341019142671}
+    - target: {fileID: 910086075815973568, guid: d4082fa5d2242af49902ae9d3cd90ac7,
+        type: 3}
+      propertyPath: _data._objectReferences.Array.data[2]
+      value: 
+      objectReference: {fileID: 7354584169815337253}
+    - target: {fileID: 910086075815973568, guid: d4082fa5d2242af49902ae9d3cd90ac7,
+        type: 3}
+      propertyPath: _data._objectReferences.Array.data[3]
+      value: 
+      objectReference: {fileID: 8515671794539431534}
     - target: {fileID: 910086075815973569, guid: d4082fa5d2242af49902ae9d3cd90ac7,
         type: 3}
       propertyPath: m_Name
@@ -452,6 +564,12 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: d4082fa5d2242af49902ae9d3cd90ac7, type: 3}
+--- !u!1 &2626226092603406437 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 910086075815973569, guid: d4082fa5d2242af49902ae9d3cd90ac7,
+    type: 3}
+  m_PrefabInstance: {fileID: 2941832151407438500}
+  m_PrefabAsset: {fileID: 0}
 --- !u!224 &2626226093101788257 stripped
 RectTransform:
   m_CorrespondingSourceObject: {fileID: 910086076457486021, guid: d4082fa5d2242af49902ae9d3cd90ac7,
@@ -465,6 +583,46 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 5075153027212683468}
     m_Modifications:
+    - target: {fileID: 910086075815973568, guid: d4082fa5d2242af49902ae9d3cd90ac7,
+        type: 3}
+      propertyPath: _data._objectReferences.Array.size
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 910086075815973568, guid: d4082fa5d2242af49902ae9d3cd90ac7,
+        type: 3}
+      propertyPath: _data._json
+      value: '{"declarations":{"collection":{"$content":[{"name":"Game Board","value":null,"$version":"A"},{"name":"Droppable","value":{"$content":false,"$type":"System.Boolean"},"$version":"A"},{"name":"Card
+        In Slot","value":null,"$version":"A"},{"name":"Active Halo","value":{"$content":0,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"Top
+        Left","value":null,"$version":"A"},{"name":"Top","value":{"$content":1,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"Top
+        Right","value":{"$content":2,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"Left","value":null,"$version":"A"},{"name":"Right","value":{"$content":3,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"Bottom
+        Left","value":null,"$version":"A"},{"name":"Bottom","value":{"$content":4,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"Bottom
+        Right","value":{"$content":5,"$type":"UnityEngine.Object"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
+      objectReference: {fileID: 0}
+    - target: {fileID: 910086075815973568, guid: d4082fa5d2242af49902ae9d3cd90ac7,
+        type: 3}
+      propertyPath: _data._objectReferences.Array.data[1]
+      value: 
+      objectReference: {fileID: 5921549050618837424}
+    - target: {fileID: 910086075815973568, guid: d4082fa5d2242af49902ae9d3cd90ac7,
+        type: 3}
+      propertyPath: _data._objectReferences.Array.data[2]
+      value: 
+      objectReference: {fileID: 2963569790846850122}
+    - target: {fileID: 910086075815973568, guid: d4082fa5d2242af49902ae9d3cd90ac7,
+        type: 3}
+      propertyPath: _data._objectReferences.Array.data[3]
+      value: 
+      objectReference: {fileID: 7354584169815337253}
+    - target: {fileID: 910086075815973568, guid: d4082fa5d2242af49902ae9d3cd90ac7,
+        type: 3}
+      propertyPath: _data._objectReferences.Array.data[4]
+      value: 
+      objectReference: {fileID: 2626226092603406437}
+    - target: {fileID: 910086075815973568, guid: d4082fa5d2242af49902ae9d3cd90ac7,
+        type: 3}
+      propertyPath: _data._objectReferences.Array.data[5]
+      value: 
+      objectReference: {fileID: 8515671794539431534}
     - target: {fileID: 910086075815973569, guid: d4082fa5d2242af49902ae9d3cd90ac7,
         type: 3}
       propertyPath: m_Name
@@ -577,6 +735,12 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: d4082fa5d2242af49902ae9d3cd90ac7, type: 3}
+--- !u!1 &4316640341019142671 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 910086075815973569, guid: d4082fa5d2242af49902ae9d3cd90ac7,
+    type: 3}
+  m_PrefabInstance: {fileID: 3983029197879343310}
+  m_PrefabAsset: {fileID: 0}
 --- !u!224 &4316640341527395851 stripped
 RectTransform:
   m_CorrespondingSourceObject: {fileID: 910086076457486021, guid: d4082fa5d2242af49902ae9d3cd90ac7,
@@ -590,6 +754,46 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 5075153027212683468}
     m_Modifications:
+    - target: {fileID: 910086075815973568, guid: d4082fa5d2242af49902ae9d3cd90ac7,
+        type: 3}
+      propertyPath: _data._objectReferences.Array.size
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 910086075815973568, guid: d4082fa5d2242af49902ae9d3cd90ac7,
+        type: 3}
+      propertyPath: _data._json
+      value: '{"declarations":{"collection":{"$content":[{"name":"Game Board","value":null,"$version":"A"},{"name":"Droppable","value":{"$content":false,"$type":"System.Boolean"},"$version":"A"},{"name":"Card
+        In Slot","value":null,"$version":"A"},{"name":"Active Halo","value":{"$content":0,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"Top
+        Left","value":{"$content":1,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"Top","value":{"$content":2,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"Top
+        Right","value":null,"$version":"A"},{"name":"Left","value":{"$content":3,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"Right","value":null,"$version":"A"},{"name":"Bottom
+        Left","value":{"$content":4,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"Bottom","value":{"$content":5,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"Bottom
+        Right","value":null,"$version":"A"}],"$version":"A"},"$version":"A"}}'
+      objectReference: {fileID: 0}
+    - target: {fileID: 910086075815973568, guid: d4082fa5d2242af49902ae9d3cd90ac7,
+        type: 3}
+      propertyPath: _data._objectReferences.Array.data[1]
+      value: 
+      objectReference: {fileID: 2963569790846850122}
+    - target: {fileID: 910086075815973568, guid: d4082fa5d2242af49902ae9d3cd90ac7,
+        type: 3}
+      propertyPath: _data._objectReferences.Array.data[2]
+      value: 
+      objectReference: {fileID: 1055799586535026052}
+    - target: {fileID: 910086075815973568, guid: d4082fa5d2242af49902ae9d3cd90ac7,
+        type: 3}
+      propertyPath: _data._objectReferences.Array.data[3]
+      value: 
+      objectReference: {fileID: 7354584169815337253}
+    - target: {fileID: 910086075815973568, guid: d4082fa5d2242af49902ae9d3cd90ac7,
+        type: 3}
+      propertyPath: _data._objectReferences.Array.data[4]
+      value: 
+      objectReference: {fileID: 8515671794539431534}
+    - target: {fileID: 910086075815973568, guid: d4082fa5d2242af49902ae9d3cd90ac7,
+        type: 3}
+      propertyPath: _data._objectReferences.Array.data[5]
+      value: 
+      objectReference: {fileID: 9149989839512529045}
     - target: {fileID: 910086075815973569, guid: d4082fa5d2242af49902ae9d3cd90ac7,
         type: 3}
       propertyPath: m_Name
@@ -702,6 +906,12 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: d4082fa5d2242af49902ae9d3cd90ac7, type: 3}
+--- !u!1 &5736683666950881904 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 910086075815973569, guid: d4082fa5d2242af49902ae9d3cd90ac7,
+    type: 3}
+  m_PrefabInstance: {fileID: 4845183875278622897}
+  m_PrefabAsset: {fileID: 0}
 --- !u!224 &5736683667450353268 stripped
 RectTransform:
   m_CorrespondingSourceObject: {fileID: 910086076457486021, guid: d4082fa5d2242af49902ae9d3cd90ac7,
@@ -717,14 +927,34 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 910086075815973568, guid: d4082fa5d2242af49902ae9d3cd90ac7,
         type: 3}
+      propertyPath: _data._objectReferences.Array.size
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 910086075815973568, guid: d4082fa5d2242af49902ae9d3cd90ac7,
+        type: 3}
       propertyPath: _data._json
       value: '{"declarations":{"collection":{"$content":[{"name":"Game Board","value":null,"$version":"A"},{"name":"Droppable","value":{"$content":false,"$type":"System.Boolean"},"$version":"A"},{"name":"Card
         In Slot","value":null,"$version":"A"},{"name":"Active Halo","value":{"$content":0,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"Top
         Left","value":null,"$version":"A"},{"name":"Top","value":null,"$version":"A"},{"name":"Top
-        Right","value":null,"$version":"A"},{"name":"Left","value":null,"$version":"A"},{"name":"Right","value":null,"$version":"A"},{"name":"Bottom
-        Left","value":null,"$version":"A"},{"name":"Bottom","value":null,"$version":"A"},{"name":"Bottom
-        Right","value":null,"$version":"A"}],"$version":"A"},"$version":"A"}}'
+        Right","value":null,"$version":"A"},{"name":"Left","value":null,"$version":"A"},{"name":"Right","value":{"$content":1,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"Bottom
+        Left","value":null,"$version":"A"},{"name":"Bottom","value":{"$content":2,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"Bottom
+        Right","value":{"$content":3,"$type":"UnityEngine.Object"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
       objectReference: {fileID: 0}
+    - target: {fileID: 910086075815973568, guid: d4082fa5d2242af49902ae9d3cd90ac7,
+        type: 3}
+      propertyPath: _data._objectReferences.Array.data[1]
+      value: 
+      objectReference: {fileID: 2963569790846850122}
+    - target: {fileID: 910086075815973568, guid: d4082fa5d2242af49902ae9d3cd90ac7,
+        type: 3}
+      propertyPath: _data._objectReferences.Array.data[2]
+      value: 
+      objectReference: {fileID: 4316640341019142671}
+    - target: {fileID: 910086075815973568, guid: d4082fa5d2242af49902ae9d3cd90ac7,
+        type: 3}
+      propertyPath: _data._objectReferences.Array.data[3]
+      value: 
+      objectReference: {fileID: 7354584169815337253}
     - target: {fileID: 910086075815973569, guid: d4082fa5d2242af49902ae9d3cd90ac7,
         type: 3}
       propertyPath: m_Name
@@ -837,6 +1067,12 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: d4082fa5d2242af49902ae9d3cd90ac7, type: 3}
+--- !u!1 &5921549050618837424 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 910086075815973569, guid: d4082fa5d2242af49902ae9d3cd90ac7,
+    type: 3}
+  m_PrefabInstance: {fileID: 6813056775095692145}
+  m_PrefabAsset: {fileID: 0}
 --- !u!224 &5921549050118843828 stripped
 RectTransform:
   m_CorrespondingSourceObject: {fileID: 910086076457486021, guid: d4082fa5d2242af49902ae9d3cd90ac7,
@@ -850,6 +1086,61 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 5075153027212683468}
     m_Modifications:
+    - target: {fileID: 910086075815973568, guid: d4082fa5d2242af49902ae9d3cd90ac7,
+        type: 3}
+      propertyPath: _data._objectReferences.Array.size
+      value: 9
+      objectReference: {fileID: 0}
+    - target: {fileID: 910086075815973568, guid: d4082fa5d2242af49902ae9d3cd90ac7,
+        type: 3}
+      propertyPath: _data._json
+      value: '{"declarations":{"collection":{"$content":[{"name":"Game Board","value":null,"$version":"A"},{"name":"Droppable","value":{"$content":false,"$type":"System.Boolean"},"$version":"A"},{"name":"Card
+        In Slot","value":null,"$version":"A"},{"name":"Active Halo","value":{"$content":0,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"Top
+        Left","value":{"$content":1,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"Top","value":{"$content":2,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"Top
+        Right","value":{"$content":3,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"Left","value":{"$content":4,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"Right","value":{"$content":5,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"Bottom
+        Left","value":{"$content":6,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"Bottom","value":{"$content":7,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"Bottom
+        Right","value":{"$content":8,"$type":"UnityEngine.Object"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
+      objectReference: {fileID: 0}
+    - target: {fileID: 910086075815973568, guid: d4082fa5d2242af49902ae9d3cd90ac7,
+        type: 3}
+      propertyPath: _data._objectReferences.Array.data[1]
+      value: 
+      objectReference: {fileID: 5921549050618837424}
+    - target: {fileID: 910086075815973568, guid: d4082fa5d2242af49902ae9d3cd90ac7,
+        type: 3}
+      propertyPath: _data._objectReferences.Array.data[2]
+      value: 
+      objectReference: {fileID: 2963569790846850122}
+    - target: {fileID: 910086075815973568, guid: d4082fa5d2242af49902ae9d3cd90ac7,
+        type: 3}
+      propertyPath: _data._objectReferences.Array.data[3]
+      value: 
+      objectReference: {fileID: 1055799586535026052}
+    - target: {fileID: 910086075815973568, guid: d4082fa5d2242af49902ae9d3cd90ac7,
+        type: 3}
+      propertyPath: _data._objectReferences.Array.data[4]
+      value: 
+      objectReference: {fileID: 4316640341019142671}
+    - target: {fileID: 910086075815973568, guid: d4082fa5d2242af49902ae9d3cd90ac7,
+        type: 3}
+      propertyPath: _data._objectReferences.Array.data[5]
+      value: 
+      objectReference: {fileID: 5736683666950881904}
+    - target: {fileID: 910086075815973568, guid: d4082fa5d2242af49902ae9d3cd90ac7,
+        type: 3}
+      propertyPath: _data._objectReferences.Array.data[6]
+      value: 
+      objectReference: {fileID: 2626226092603406437}
+    - target: {fileID: 910086075815973568, guid: d4082fa5d2242af49902ae9d3cd90ac7,
+        type: 3}
+      propertyPath: _data._objectReferences.Array.data[7]
+      value: 
+      objectReference: {fileID: 8515671794539431534}
+    - target: {fileID: 910086075815973568, guid: d4082fa5d2242af49902ae9d3cd90ac7,
+        type: 3}
+      propertyPath: _data._objectReferences.Array.data[8]
+      value: 
+      objectReference: {fileID: 9149989839512529045}
     - target: {fileID: 910086075815973569, guid: d4082fa5d2242af49902ae9d3cd90ac7,
         type: 3}
       propertyPath: m_Name
@@ -962,6 +1253,12 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: d4082fa5d2242af49902ae9d3cd90ac7, type: 3}
+--- !u!1 &7354584169815337253 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 910086075815973569, guid: d4082fa5d2242af49902ae9d3cd90ac7,
+    type: 3}
+  m_PrefabInstance: {fileID: 7688204356009049060}
+  m_PrefabAsset: {fileID: 0}
 --- !u!224 &7354584170456202529 stripped
 RectTransform:
   m_CorrespondingSourceObject: {fileID: 910086076457486021, guid: d4082fa5d2242af49902ae9d3cd90ac7,
@@ -1087,6 +1384,12 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: d4082fa5d2242af49902ae9d3cd90ac7, type: 3}
+--- !u!1 &9149989839512529045 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 910086075815973569, guid: d4082fa5d2242af49902ae9d3cd90ac7,
+    type: 3}
+  m_PrefabInstance: {fileID: 8239912972644366932}
+  m_PrefabAsset: {fileID: 0}
 --- !u!224 &9149989840087858321 stripped
 RectTransform:
   m_CorrespondingSourceObject: {fileID: 910086076457486021, guid: d4082fa5d2242af49902ae9d3cd90ac7,
@@ -1100,6 +1403,46 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 5075153027212683468}
     m_Modifications:
+    - target: {fileID: 910086075815973568, guid: d4082fa5d2242af49902ae9d3cd90ac7,
+        type: 3}
+      propertyPath: _data._objectReferences.Array.size
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 910086075815973568, guid: d4082fa5d2242af49902ae9d3cd90ac7,
+        type: 3}
+      propertyPath: _data._json
+      value: '{"declarations":{"collection":{"$content":[{"name":"Game Board","value":null,"$version":"A"},{"name":"Droppable","value":{"$content":false,"$type":"System.Boolean"},"$version":"A"},{"name":"Card
+        In Slot","value":null,"$version":"A"},{"name":"Active Halo","value":{"$content":0,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"Top
+        Left","value":{"$content":1,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"Top","value":{"$content":2,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"Top
+        Right","value":{"$content":3,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"Left","value":{"$content":4,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"Right","value":{"$content":5,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"Bottom
+        Left","value":null,"$version":"A"},{"name":"Bottom","value":null,"$version":"A"},{"name":"Bottom
+        Right","value":null,"$version":"A"}],"$version":"A"},"$version":"A"}}'
+      objectReference: {fileID: 0}
+    - target: {fileID: 910086075815973568, guid: d4082fa5d2242af49902ae9d3cd90ac7,
+        type: 3}
+      propertyPath: _data._objectReferences.Array.data[1]
+      value: 
+      objectReference: {fileID: 4316640341019142671}
+    - target: {fileID: 910086075815973568, guid: d4082fa5d2242af49902ae9d3cd90ac7,
+        type: 3}
+      propertyPath: _data._objectReferences.Array.data[2]
+      value: 
+      objectReference: {fileID: 7354584169815337253}
+    - target: {fileID: 910086075815973568, guid: d4082fa5d2242af49902ae9d3cd90ac7,
+        type: 3}
+      propertyPath: _data._objectReferences.Array.data[3]
+      value: 
+      objectReference: {fileID: 5736683666950881904}
+    - target: {fileID: 910086075815973568, guid: d4082fa5d2242af49902ae9d3cd90ac7,
+        type: 3}
+      propertyPath: _data._objectReferences.Array.data[4]
+      value: 
+      objectReference: {fileID: 2626226092603406437}
+    - target: {fileID: 910086075815973568, guid: d4082fa5d2242af49902ae9d3cd90ac7,
+        type: 3}
+      propertyPath: _data._objectReferences.Array.data[5]
+      value: 
+      objectReference: {fileID: 9149989839512529045}
     - target: {fileID: 910086075815973569, guid: d4082fa5d2242af49902ae9d3cd90ac7,
         type: 3}
       propertyPath: m_Name
@@ -1212,6 +1555,12 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: d4082fa5d2242af49902ae9d3cd90ac7, type: 3}
+--- !u!1 &8515671794539431534 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 910086075815973569, guid: d4082fa5d2242af49902ae9d3cd90ac7,
+    type: 3}
+  m_PrefabInstance: {fileID: 8830705750278689967}
+  m_PrefabAsset: {fileID: 0}
 --- !u!224 &8515671795173118570 stripped
 RectTransform:
   m_CorrespondingSourceObject: {fileID: 910086076457486021, guid: d4082fa5d2242af49902ae9d3cd90ac7,
