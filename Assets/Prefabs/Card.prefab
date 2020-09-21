@@ -181,7 +181,7 @@ MonoBehaviour:
       Board","value":null,"$version":"A"},{"name":"Dropped On","value":null,"$version":"A"},{"name":"Assigned
       Slot","value":null,"$version":"A"},{"name":"Turn Start Location","value":null,"$version":"A"},{"name":"Turn
       Start Board","value":null,"$version":"A"},{"name":"Rally Phase","value":{"$content":false,"$type":"System.Boolean"},"$version":"A"},{"name":"Background","value":{"$content":0,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"Title","value":{"$content":1,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"Reward","value":{"$content":2,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"Type","value":{"$content":3,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"Selection
-      Halo","value":{"$content":4,"$type":"UnityEngine.Object"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
+      Halo","value":{"$content":4,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"CardReference","value":null,"$version":"A"}],"$version":"A"},"$version":"A"}}'
     _objectReferences:
     - {fileID: 3184930901442811689}
     - {fileID: 2527084317290846785}

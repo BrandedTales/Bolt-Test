@@ -10,6 +10,8 @@ namespace BT.CrystalBright
         public Sprite cardImage;
         public CardType cardType;
         public CardRewardType cardRewardType;
+
+        public ScoreConditions[] scoreConditions;
         
     }
 }
