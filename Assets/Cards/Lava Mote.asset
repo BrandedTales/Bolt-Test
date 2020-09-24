@@ -15,3 +15,10 @@ MonoBehaviour:
   cardImage: {fileID: 21300000, guid: 2ada58e449efaf64381be36b14ecf3b7, type: 3}
   cardType: 3
   cardRewardType: 0
+  scoreConditions:
+  - {fileID: 11400000, guid: 6dcbd9f4c3628b54089659d2e0fa6f8d, type: 2}
+  - {fileID: 11400000, guid: ede4ea9006a4f5e4a9a27a21cd414d02, type: 2}
+  - {fileID: 11400000, guid: e19236fe8a0b09d44b70a60d920a9b9a, type: 2}
+  - {fileID: 11400000, guid: 9ad3a329df45fed4cba515f4af450b03, type: 2}
+  - {fileID: 11400000, guid: 78bd3eaa7276dcf46a908b444aad38d5, type: 2}
+  - {fileID: 11400000, guid: 4ff1331cb323a6a40b5190b2ae80c63c, type: 2}
